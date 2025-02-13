@@ -4,7 +4,7 @@
 1. Clonar el repositorio: 'git clone https://github.com/adanromero10/AbankBackEndGit'
 2. Configurar la base de datos PostgreSQL
 3. Configurar 'appsettings.json'
-4. Ejecutar la aplicación: 'dotnet run'
+4. Ejecutar la aplicación: 'AbankBackEnd'
 
 ## Endpoints
 ### Autenticación
