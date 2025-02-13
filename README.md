@@ -1,4 +1,4 @@
-# API REST en .NET 8 con MySQL
+# API REST en .NET 8 con PostgreSQL
 
 ## Instalación
 1. Clonar el repositorio: 'git clone https://github.com/usuario/repo.git'
