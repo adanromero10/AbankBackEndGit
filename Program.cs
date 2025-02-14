@@ -7,7 +7,7 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // Configuración de JWT
-var key = Encoding.ASCII.GetBytes("ClaveSuperSecreta123456!");
+var key = Encoding.ASCII.GetBytes("Nuqf5pKL2RzIrj6t5dn23ZZjW3XHc4jS");
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
